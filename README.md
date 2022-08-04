@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilkiubarbara
+- 👋 olá, eu sou @ilkiubarbara
 - meu email é barbara.ilkiu@escola.pr.gov.br
 - 👀 eu estou interessado em aprender novas linguagens de programação
 - 🌱 eu estou começando a aprender a linguagem do java recentemente e scrath
